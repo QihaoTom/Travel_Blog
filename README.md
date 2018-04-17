@@ -1,7 +1,7 @@
 # Travel_Blog
-## Welcome to my travel blog world! Here is my some diary and logs which conveys my feelings when I am travling
+#### Welcome to my travel blog world! Here is my some diary and logs which conveys my feelings when I am travling
 
-### Most Importantly, for some obvious reasons, it becomes harder for me to write blogs as many as before. But it is still a good memory.
+#### Most Importantly, for some obvious reasons, it becomes harder for me to write blogs as many as before. But it is still a good memory.
 
 #### Hopefully, I can take my girl to travel the places that we both love and share the feelings as well as the insights of the world!
 
