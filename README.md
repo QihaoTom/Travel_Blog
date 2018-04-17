@@ -1,5 +1,7 @@
 # Travel_Blog
-#### Welcome to my travel blog world! Here is my some diary and logs which conveys my feelings when I am travling
+#### Welcome to my travel blog world! 
+
+Here is some my diary and blogs which conveys my feelings when I am travling as a undergraduate student in Beijing, China
 
 Most Importantly, for some obvious reasons, it becomes harder for me to write blogs as many as before. But it is still a good memory.
 
