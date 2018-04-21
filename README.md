@@ -1,11 +1,11 @@
 # Travel_Blog
 #### Welcome to my travel blog world! 
 
-Here is some my diary and blogs which conveys my feelings when I am travling as a undergraduate student in Beijing, China
+Here is some my diary and blogs which convey my feelings when I am travling as a undergraduate student in Beijing, China
 
-Most Importantly, for some obvious reasons, it becomes harder for me to write blogs as many as before. But it is still a good memory.
+Most Importantly, for some obvious reasons, it becomes harder for me to write blogs as many as before. It is still a good memory though.
 
-Oneday I can take my girl to travel the places that we both love and share the feelings as well as the insights of the world!
+Oneday I can take my friend to travel the places that we both love and share the feelings as well as the insights of the world!
 
 ### 2013
 * 天津
